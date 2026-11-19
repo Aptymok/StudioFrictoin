@@ -1,0 +1,6 @@
+{
+  "name": "SFI Creative Companion",
+  "description": "Herramienta complementaria audiovisual e independiente para System Friction Institute. Convierte antecedentes históricos, científicos y documentales en propuestas creativas verificables sin alterar sistemas canónicos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
